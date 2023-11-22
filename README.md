@@ -1,2 +1,2 @@
-# ADA-LOVELACE
-pensamento computacional
+
+
